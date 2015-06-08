@@ -5,14 +5,14 @@ published: true
 ---
 
 
-**## Q: Is there any way to study on the internet without getting distracted?**
+**Q: Is there any way to study on the internet without getting distracted?**
 
 > ## **IT IS NOT ENOUGH TO BE BUSY
 We must ask: What are we busy About ? - Henry David**
 
 The problem everyone faces in this digital era is the constant distraction from various sites on the internet. You are researching on a particular topic, finding some answers, understanding few concept and the next thing you remember what was I actually searching for. This phenomeon has become common for all of us now.
 
-![]({{site.baseurl}}/https://c3.staticflickr.com/7/6234/6875893248_07146d1191_b.jpg)
+
 
 To overcome these weapons of mass distraction, we must plan our actions well in advance.
 
@@ -31,8 +31,10 @@ Block the most time consuming sites in the hosts file.
 ### Plan B(Block time wasting site for certain period of time)
 
 Few good Plugins for your Chrome/Firefox browser
+
 [Concentrate](https://chrome.google.com/webstore/detail/concentrate/idfmgklhndkcggamadboiaepmohpjhjj?utm_source=plus)
+
 [LeechBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock/)
 
 Hope with this you get some amount of productivity each day. Best of luck !
-#productivity #time-saver
+ #productivity #time-saver
